@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="announcement">
+    <announcement action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <click_target/>
+        <details/>
+        <details_link_text/>
+        <details_page/>
+        <details_url/>
+        <dismiss_options>dismissible</dismiss_options>
+        <display_first>false</display_first>
+        <display_style display_value="Urgent">339ea11ae7d4030075c2a117c2f6a9cf</display_style>
+        <from>2019-12-09 09:01:38</from>
+        <glyph>music</glyph>
+        <glyph_alt_text/>
+        <name>Urgent</name>
+        <public>true</public>
+        <roles/>
+        <summary>[Service] is currently unavailable.  Our service management team are aware and are making every effort to restore the service as quickly as possible.  </summary>
+        <sys_class_name>announcement</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-09 09:01:44</sys_created_on>
+        <sys_id>c6218b2edb690010805d5608689619d9</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Urgent</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>announcement_c6218b2edb690010805d5608689619d9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-09 09:39:56</sys_updated_on>
+        <title>Urgent Annoucement</title>
+        <to/>
+        <type>67eaf134e7a3320075c2a117c2f6a9d2,52fa79f8e763320075c2a117c2f6a991</type>
+    </announcement>
+    <sys_translated_text action="delete_multiple" query="documentkey=c6218b2edb690010805d5608689619d9"/>
+</record_update>
